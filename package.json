@@ -1,0 +1,23 @@
+{
+  "name": "fcm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awan88/FCM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awan88/FCM/issues"
+  },
+  "homepage": "https://github.com/awan88/FCM#readme",
+  "description": "",
+  "dependencies": {
+    "firebase-admin": "^13.3.0"
+  }
+}
